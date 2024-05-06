@@ -4,7 +4,7 @@
 
 **Report.pptx** : Comprehensive Powerpoint report 
 
-**Resentation.pptx **: Powerpoint presentation with only key content
+**Resentation.pptx**: Powerpoint presentation with only key content
 
 **Transposing&Normalization-Copy1.ipynb** : Python file created for Cleaning data into Tableau ready file
 
